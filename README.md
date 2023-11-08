@@ -29,4 +29,4 @@ root = find_root_bisection(a, b, tolerance)
 if root is not None:
 print(f"Akar persamaan f(x) = x^2 - 6x + 5 = 0 dalam selang [{a}, {b}] adalah {root}")
 
-Hasil dari perhitungan diatas adalah Akar Persamaan [5,0]
+Hasil dari persamaan di atas adalah [5,0]
